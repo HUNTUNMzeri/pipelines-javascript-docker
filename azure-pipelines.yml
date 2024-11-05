@@ -8,7 +8,6 @@ trigger:
 
 pool:
    name: testLinuxPool
-   demands:
 
 variables:
    imageName: 'pipelines-javascript-docker'
